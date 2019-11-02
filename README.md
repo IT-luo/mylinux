@@ -1,0 +1,2 @@
+# mylinux
+Linux learning accumulation
